@@ -1,4 +1,4 @@
-
+--SQL Project - Quick Analysis of Covid 19 Data
 --Explore The Data
 
 select * from [PortfolioProjects- Covid 19].dbo.CovidDeaths
